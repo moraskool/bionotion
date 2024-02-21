@@ -7,7 +7,7 @@
 name = "site"
 
 # This page should be the root of your website. It's important. 
-page = "https://www.notion.so/Loconotion-Example-Page-03c403f4fdc94cc1b315b9469a8950ef"
+page = "https://www.notion.so/The-perfect-It-s-Always-Sunny-in-Philadelphia-episode-d08aaec2b24946408e8be0e9f2ae857e"
 
 # optionally apply notion's dark mode, remove the line below to use the default light mode
 theme = "dark"
